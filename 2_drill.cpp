@@ -35,7 +35,7 @@ int main(){
 	if (age <= 0 or  age >= 110)
 		cout << simple_error << endl;
 	else 
-	   cout << "I hear you just had a birthday and you are" << age << " years old." << endl;  //5.
+	   cout << "I hear you just had a birthday and you are" << age << " years old." << endl;//5.
 		
 		
 	if (age < 12 and age >= 1)
